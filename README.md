@@ -3,7 +3,7 @@
 ## Info page:
 - CSDC100 https://ajuni-adnu.github.io/interests-page/
 
-![Static Badge](https://img.shields.io/badge/Easter-Egg?logo=lighthouse&logoColor=yellow&label=Easter%20Egg&labelColor=white&color=yellow) Wait 70 seconds for an additional page! 
+![](https://img.shields.io/badge/Easter%20Egg-Fun%20fact-4c8bad?style=social&logo=lighthouse&logoColor=yellow&logoSize=auto) Wait 70 seconds for an additional page! 
 
 
   
